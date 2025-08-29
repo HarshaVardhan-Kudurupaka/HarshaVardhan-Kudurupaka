@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Kudurupaka</h1>
-<h3 align="center">Full stack Developer | Python | Java | C | Creative thinking | CSE '26</h3>
+<marquee behavior="scroll" direction="left" scrollamount="6">
+<h3 align="center">💻 Full Stack Developer | Python | Java | C | Creative Thinking | CSE '26</h3>
+</marquee>
+
 
 - 🔭 I’m currently working on [Web based Chatting app](https://github.com/HarshaVardhan-Kudurupaka/Chatting-App)
 
